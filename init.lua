@@ -8,4 +8,4 @@ local opt = vim.opt
 -- })
 
 -- Indenting
-opt.mouse = ""
+opt.mouse = "a"
