@@ -60,6 +60,12 @@ local plugins = {
   --   "mg979/vim-visual-multi",
   --   lazy = false,
   -- }
+
+  -- codeium
+  {
+    "Exafunction/codeium.vim",
+    event = "BufEnter",
+  },
 }
 
 return plugins
